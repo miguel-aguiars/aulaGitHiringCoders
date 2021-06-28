@@ -1,0 +1,1 @@
+Até o momento o curso vem sendo muito útil pois apesar de já ter adquirido bons fundamentos de lógica de programação, criado alguns projetos básicos com HTML, CSS e JavaScript, eu não sabia o quão importante e útil era saber alguns dos comandos que possuímos dentro do git em conjunto com o github.
